@@ -1,4 +1,4 @@
-# Hackercamp Summer 2018 submission
+#Expense Manager
 
 All files present in frontend.zip/FE
 Unzip folder frontend.zip
