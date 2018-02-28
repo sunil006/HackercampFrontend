@@ -1,10 +1,8 @@
 #Expense Manager
 
-All files present in frontend.zip/FE
+All files present in  FrontEndhackercam
 
-Unzip folder frontend.zip
-
-In FE first run first.php file.
+In FrontEndhackercamp first run first.php file.
 
 put that folder in your php root in your computer.
-To run first.php file open browser and type localhos/frontend/FE/first.php
+To run first.php file open browser and type localhost/frontend/FrontEndhackercamp/first.php
